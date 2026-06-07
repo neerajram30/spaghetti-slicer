@@ -1,7 +1,17 @@
 {
   "name": "spaghetti-slicer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Frontend best practices auditor for React/TypeScript codebases",
+  "license": "MIT",
+  "author": "neerajram30",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neerajram30/spaghetti-slicer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/neerajram30/spaghetti-slicer/issues"
+  },
+  "homepage": "https://github.com/neerajram30/spaghetti-slicer#readme",
   "files": [
     "dist"
   ],
